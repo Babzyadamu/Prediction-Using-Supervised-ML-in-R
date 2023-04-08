@@ -72,5 +72,6 @@ The predicted Score if a student studies for 9.25 hours/day is approximately 93.
 ![](final_answer.jpg)
 ## All Analysis are explained in details in the R file.
 ## I hope this helps.
+### [FOLLOW @ahmed adamu](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
 
 
