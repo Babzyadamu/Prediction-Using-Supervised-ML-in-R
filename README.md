@@ -18,13 +18,13 @@ The aim of this analysis is to answer the following business related questions:
 - Conclusion
 
 ## Skills, Concept & Library used:
-- pandas
-- numpy
-- matplotlib.pyplot
-- seaborn
-- sklearn.model_selection 
-- sklearn.linear_model
-- sklearn.metrics
+- ggplot2
+- caret
+- modelling
+- statistical analysis
+- visualization
+- data manipulation
+- critical thinking
 
 ## Conclusion 
 The predicted Score if a student studies for 9.25 hours/day is approximately 94%.
