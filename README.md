@@ -27,6 +27,6 @@ The aim of this analysis is to answer the following business related questions:
 - critical thinking
 
 ## Conclusion 
-The predicted Score if a student studies for 9.25 hours/day is approximately 94%.
+The predicted Score if a student studies for 9.25 hours/day is approximately 93.33%.
 
 ## All Analysis are explained in details in the R file.
