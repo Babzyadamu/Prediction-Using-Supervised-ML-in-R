@@ -26,6 +26,12 @@ The aim of this analysis is to answer the following business related questions:
 - data manipulation
 - critical thinking
 
+# Loading the Data
+![](view_df.jpg)
+The data was viewed after loading it in R using the code below
+![](loading_and_viewing.jpg)
+
+
 ## Conclusion 
 The predicted Score if a student studies for 9.25 hours/day is approximately 93.33%.
 
