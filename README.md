@@ -64,6 +64,8 @@ The model was trained using the above code and the variables were defined to poi
 
 ![](model_evaluation.jpg)
 
+![](mae_rmse.jpg)
+
 Finally, the model was evaluated. This is very key as it allows us to assesss how well the model is likely to generalize new unseen data. The 3 metrics used for evaluation of model peformance are Mean Absolute Error, Mean Squared Error and Root Mean Squared Error.
 ## Conclusion 
 The predicted Score if a student studies for 9.25 hours/day is approximately 93.33%.
