@@ -69,7 +69,9 @@ The model was trained using the above code and the variables were defined to poi
 Finally, the model was evaluated. This is very key as it allows us to assesss how well the model is likely to generalize new unseen data. The 3 metrics used for evaluation of model peformance are Mean Absolute Error, Mean Squared Error and Root Mean Squared Error. It is important to note that the yard stick used for measurement depends on context of the problem, size of the dataset and variability of the data. In this case, having a mean absolute error of 3.7841 seems reasonable as when compared to the range of data in the target variable (that is between 0 and 100). In general, the lower the values of the 3 metrics, the better the performance but keep in mind this varies from the type of analysis you carry out.
 ## Conclusion 
 The predicted Score if a student studies for 9.25 hours/day is approximately 93.33%.
+
 ![](final_answer.jpg)
+
 ## All Analysis are explained in details in the R file.
 ## I hope this helps.
 ### [FOLLOW @ahmed adamu](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
